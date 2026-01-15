@@ -1,24 +1,24 @@
 # Robotics Club Website – Web Development Competition
 
-## Team members
-Name: Bolneni Hemanth  
-Email: hemanthb618@gmail.com  
+##  Team members
+Name: Bolneni Hemanth
+Email: hemanthb618@gmail.com
 Role: Frontend (HTML/CSS), layout, responsiveness
 
 Name: Chiluvera Sai Harshil
 Email: saiharshil2008@gmail.com
-Role: HTML,structure,design
+Role: HTML , structure ,design
 
-Name: Desavath prithvi raj
+Name: desavath prithvi raj
 Email: desavathprithviraj@gmail.com
 Role: support
 
-Name: Kandregula varaha yaswanth 
+Name: Kandregula varaha yaswanth
 Email: kandregulayaswanth.1601@gmail.com
 Role: support
 ---
 
-## Technology Choices and Reasons
+##  Technology Choices and Reasons
 
 - **HTML5** – Used for structuring all website pages clearly and semantically.  
 - **CSS3** – Used for styling, layout, animations, and responsiveness.  
@@ -30,7 +30,7 @@ The project focuses on strong fundamentals. Using pure HTML and CSS demonstrates
 
 ---
 
-## How Future Scalability Is Ensured
+##  How Future Scalability Is Ensured
 
 - Reusable CSS classes for cards, layouts, and components  
 - Consistent design system across pages  
@@ -45,12 +45,13 @@ This allows:
 
 ---
 
-## External Resources / Images Used
+##  External Resources / Images Used
 
 - Placeholder profile images (for team layout testing)  
 - Logos used for industry news:
   - NVIDIA  
-  - Tesla    
+  - Tesla  
+  - Boston Dynamics  
   - ARM  
   - Google DeepMind  
   - Microsoft  
@@ -61,7 +62,7 @@ This allows:
 
 ---
 
-## Setup Instructions
+##  Setup Instructions
 
 1. Download or clone the repository  
 2. Open the project folder  
