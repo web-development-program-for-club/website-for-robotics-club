@@ -1,21 +1,19 @@
 # Robotics Club Website – Web Development Competition
 
-##  Team members
-Name: Bolneni Hemanth
-Email: hemanthb618@gmail.com
-Role: Frontend (HTML/CSS), layout, responsiveness
+## Team Members
 
-Name: Chiluvera Sai Harshil
-Email: saiharshil2008@gmail.com
-Role: HTML , structure ,design
+- **Bolneni Hemanth** — Frontend (HTML/CSS), layout, responsiveness  
+  Email: hemanthb618@gmail.com
 
-Name: desavath prithvi raj
-Email: desavathprithviraj@gmail.com
-Role: support
+- **Chiluvera Sai Harshil** — HTML, structure, design  
+  Email: saiharshil2008@gmail.com
 
-Name: Kandregula varaha yaswanth
-Email: kandregulayaswanth.1601@gmail.com
-Role: support
+- **Desavath Prithvi Raj** — Support  
+  Email: desavathprithviraj@gmail.com
+
+- **Kandregula Varaha Yaswanth** — Support  
+  Email: kandregulayaswanth.1601@gmail.com
+
 ---
 
 ##  Technology Choices and Reasons
